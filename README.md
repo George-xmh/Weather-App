@@ -1,5 +1,6 @@
 🌤️ Weather-App
-Welcome to Weather-App, a simple and intuitive application that provides real-time weather updates! 🌦️ Perfect for staying informed about current conditions, wherever you are. 🗺️
+Welcome to Weather-App, a simple and intuitive application that provides real-time weather updates! 🌦️
+Perfect for staying informed about current conditions, wherever you are. 🗺️
 
 🚀 Features
 🌡️ Live Weather Updates: Check current weather conditions for any city.
@@ -9,4 +10,3 @@ Welcome to Weather-App, a simple and intuitive application that provides real-ti
 🖼️ HTML: Structuring the app.
 🎨 CSS: Styling the interface.
 🌐 JavaScript: Fetching weather data and making the app interactive.
-📸 Preview
